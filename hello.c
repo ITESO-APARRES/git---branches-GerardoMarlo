@@ -3,6 +3,6 @@
 int main(void){
 	printf("Hola Mundo");
 	printf("Hola a todos");
-	decirHola("Luis");
+	printf("this is a second line\n");
 	return 0;
 }
